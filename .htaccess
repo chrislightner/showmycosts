@@ -1,6 +1,6 @@
 #RedirectMatch 301 (?i) makes a case-insensitive url match
 #
-RedirectMatch 301 (?i)^/aap-qd$ https://www.coverageinfo.net/aap/tldi/8839?utm_source=letter&utm_medium=mail&utm_campaign=USI-9146_AAP_QD_TL-DI_DM&c=AXDM0925A165C2AAP
+RedirectMatch 301 (?i)/aap-qd$ https://www.coverageinfo.net/aap/tldi/8839?utm_source=letter&utm_medium=mail&utm_campaign=USI-9146_AAP_QD_TL-DI_DM&c=AXDM0925A165C2AAP
 #
 RedirectMatch 301 (?i)/test https://coveragedetails.net/error
 #
